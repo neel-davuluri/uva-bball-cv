@@ -18,7 +18,7 @@ The demo shows a UVA defensive possession against Miami with player tracking and
 |---|---|
 | `01_frame_extraction.ipynb` | Extract and audit frames from broadcast clips |
 | `02_homography_final.ipynb` | Annotate court keypoints and compute homography matrix |
-| `03_player_detection_fixed.ipynb` | Run YOLO + ByteTrack, map positions to court coordinates |
+| `03_player_detection.ipynb` | Run YOLO + ByteTrack, map positions to court coordinates |
 | `04_analytics_demo_v2.ipynb` | Team classification, metrics, animated demo render |
 
 ## Stack
